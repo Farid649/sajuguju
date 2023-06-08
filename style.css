@@ -99,18 +99,10 @@ img{
     height: 300px;
     width:300px;
 }
-.product {
-  display: flex;
-  
-  margin: 0 20%;
+.container2{
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    background-color: blueviolet;
 }
-.pic1{
-    width: 50%;
-    height: 20%;
-    margin-right: 35px;
-}
-#picture1{
-    height: 150px;
-    width: 150px;
-}
-
